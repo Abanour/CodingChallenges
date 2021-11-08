@@ -10,7 +10,7 @@ public class Codingchallenge {
 
 	}
 
-	// This method poducess integers in multiple of 7 up to 100
+	// This method produces integers in multiple of 7 up to 100
 	public static void mult7() {
 
 		for (int i = 7; i <= 100; i = i + 7) {
@@ -19,7 +19,7 @@ public class Codingchallenge {
 
 	}
 
-	// This method poducess integers in multiple of 8 up to 200
+	// This method produces integers in multiple of 8 up to 200
 	public static void mult8() {
 
 		for (int i = 8; i <= 200; i = i + 8) {
@@ -28,7 +28,7 @@ public class Codingchallenge {
 
 	}
 
-	// This method poducess integers in multiple of 9 up to 300
+	// This method produces integers in multiple of 9 up to 300
 	public static void mult9() {
 
 		for (int i = 9; i <= 300; i = i + 9) {
